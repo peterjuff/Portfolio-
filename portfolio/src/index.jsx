@@ -12,7 +12,7 @@ class App extends Component {
       <div>
         <Navigation LogoTitle="Peter Juffernbruch" />
 
-        <Header title="Peter's Portfolio" />
+        <Header title="Peter's Portfolio" button="Take a look" />
       </div>
     );
   }
