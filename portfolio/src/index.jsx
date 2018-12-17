@@ -4,6 +4,7 @@ import "./index.css";
 // import App from './App';
 import Navigation from "./Components/Navigation";
 import Header from "./Components/Header";
+import Services from "./Components/Services";
 import * as serviceWorker from "./serviceWorker";
 
 class App extends Component {
@@ -13,6 +14,7 @@ class App extends Component {
         <Navigation LogoTitle="Peter Juffernbruch" />
 
         <Header title="Peter's Portfolio" button="Take a look" />
+        <Services />
       </div>
     );
   }
