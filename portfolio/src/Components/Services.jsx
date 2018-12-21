@@ -10,7 +10,9 @@ class Services extends Component {
         <h2>What I offer</h2>
         <div className="row">
           <div>
-            <span>{FaCode}</span>
+            <span>
+              <FaCode />
+            </span>
           </div>
           <div>
             <span />

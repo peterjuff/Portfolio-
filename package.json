@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "react": "^16.6.3",
-    "react-fontawesome": "^1.6.1"
+    "react-fontawesome": "^1.6.1",
+    "react-icons": "^3.2.2"
   }
 }
